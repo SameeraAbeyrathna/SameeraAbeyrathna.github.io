@@ -13,7 +13,7 @@ title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Sameera Abeyrathna"
 description              : &description "Postdoctoral Research Scientist at Columbia. Chemistry, Biochemistry and Chemical Engineering"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://sameeraabeyrathna.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
