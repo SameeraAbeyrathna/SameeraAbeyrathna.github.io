@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+======
 
 I am a postdoctoral research scientist at Columbia University in the Department of Chemical Engineering, advised by [Prof. Scott Banta](https://bantalab.cheme.columbia.edu/). My research focuses on engineering and evolving proteins to achieve non-natural biological functions, with applications in clean energy and the recovery of critical minerals. 
 
