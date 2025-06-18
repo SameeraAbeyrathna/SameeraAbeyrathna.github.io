@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Postdoctoral Research Scientist at Columbia. Chemistry and Chemical Engineering"
+name                     : &name "Sameera Abeyrathna"
+description              : &description "Postdoctoral Research Scientist at Columbia. Chemistry, Biochemistry and Chemical Engineering"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/images/profile.png"
+  avatar: "/images/profile.png" 
   name             : "Sameera Abeyrathna"
   pronouns         : # example: "he/him"  
   bio              : "Postdoctoral Research Scientist at Columbia. Chemistry and Chemical Engineering"
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HVEb3hgAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1346-6796"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Sameera-Abeyrathna"
   scopus           : # URL
 
   # Repositories and software development
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/sameera-abeyrathna-813b145b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  X (formaly twitter)           : "https://x.com/sameeraabeyrat3"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
