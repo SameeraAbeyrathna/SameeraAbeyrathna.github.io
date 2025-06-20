@@ -3,7 +3,7 @@ title: "The Inspiration Behind My Research"
 
 collection: portfolio
 ---
-Nature has always been the greatest engineer. Over billions of years, life has evolved through natural selection—shaping organisms with remarkable resilience and complexity. From the elegance of photosynthesis to the survival of extremophiles thriving in boiling boiling hot springs or freezing salt lakes, evolution has fine-tuned biological systems to perform awe-inspiring functions under unimaginable conditions.
+Nature has always been the greatest engineer. Over billions of years, life has evolved through natural selection—shaping organisms with remarkable resilience and complexity. From the elegance of photosynthesis to the survival of extremophiles thriving in boiling hot springs or freezing salt lakes, evolution has fine-tuned biological systems to perform awe-inspiring functions under unimaginable conditions.
 
 At its core, evolution works at the molecular level, sculpting biomolecules like enzymes and proteins to adapt and survive. This powerful concept of molecular evolution is the foundation of my scientific curiosity. My research is inspired by nature’s ingenuity, and in my future lab, inspired by natural evolution I aim to evolve proteins and enzymes by directed evelotion workflos to perform novel and industrially relevant functions.
 
