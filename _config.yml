@@ -353,4 +353,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-<meta name="google-site-verification" content="u-ebjgWTaO9uQdKcaWqO14VN0hF85EFU966auZi43vY" />
+head_custom: '<meta name="google-site-verification" content="u-ebjgWTaO9uQdKcaWqO14VN0hF85EFU966auZi43vY">'
+
