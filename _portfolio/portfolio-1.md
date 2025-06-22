@@ -7,7 +7,7 @@ Nature has always been the greatest engineer. Over billions of years, life has e
 
 At its core, evolution works at the molecular level, sculpting biomolecules like enzymes and proteins to adapt and survive. This powerful concept of molecular evolution is the foundation of my scientific curiosity. My research is inspired by nature’s ingenuity, and in my future lab, inspired by natural evolution I aim to evolve proteins and enzymes by directed evelotion workflos to perform novel and industrially relevant functions.
 
-excerpt: "Short description of research item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of research item number 1<br/><img src='/images/1200x1200.png'>"
 
 I am also fascinated by how organisms sense and respond to their environment. By engineering these natural sensory mechanisms, I plan to develop next-generation biosensors that can detect everything from environmental toxins to disease markers with precision and speed.
 
